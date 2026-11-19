@@ -1,0 +1,31 @@
+name: controle_combustivel
+description: "Aplicativo Flutter para controle de gastos com combustível e consumo de um veículo."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  # Requisições HTTP para a BrasilAPI (tabela FIPE)
+  http: ^1.2.2
+  # Persistência local (chave/valor) – funciona em Android, iOS, Web e Desktop
+  shared_preferences: ^2.3.2
+  # Gráficos do dashboard
+  fl_chart: ^1.0.0
+  # Formatação de moeda, números e datas em pt_BR
+  # (a versão é definida pelo flutter_localizations do SDK instalado)
+  intl: any
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
