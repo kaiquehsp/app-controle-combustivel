@@ -48,21 +48,21 @@ Considerando que todos os abastecimentos completam o tanque:
 
 ## 🖼️ Capturas de tela
 
-|                  Tela inicial                   |                       Cadastro do veículo                        |                Seleção de marca (BrasilAPI)                |
-| :---------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------: |
-| ![Tela inicial](docs/screenshots/01_inicio.png) | ![Cadastro do veículo](docs/screenshots/02_cadastro_veiculo.png) | ![Seleção de marca](docs/screenshots/03_selecao_marca.png) |
+| Tela inicial | Dashboard | Dashboard (detalhado) |
+| :---: | :---: | :---: |
+| ![Tela inicial](docs/inicio.jpeg) | ![Dashboard](docs/dashboard.jpeg) | ![Dashboard 2](docs/dashboard2.jpeg) |
 
-|                Seleção de modelo (BrasilAPI)                 |             Veículo cadastrado              |                        Novo abastecimento                         |
-| :----------------------------------------------------------: | :-----------------------------------------: | :---------------------------------------------------------------: |
-| ![Seleção de modelo](docs/screenshots/04_selecao_modelo.png) | ![Veículo](docs/screenshots/05_veiculo.png) | ![Novo abastecimento](docs/screenshots/06_novo_abastecimento.png) |
+| Cadastro do veículo | Seleção de marca (BrasilAPI) | Seleção de modelo (BrasilAPI) |
+| :---: | :---: | :---: |
+| ![Cadastro do veículo](docs/cadastro_veiculo.jpeg) | ![Seleção de marca](docs/selecao_marca.jpeg) | ![Seleção de modelo](docs/selecao_modelo.jpeg) |
 
-|                  Lista de abastecimentos                  |            Dashboard (resumo e valores)             |              Dashboard (km/L e R$/km)               |
-| :-------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
-| ![Abastecimentos](docs/screenshots/07_abastecimentos.png) | ![Dashboard 1](docs/screenshots/08_dashboard_1.png) | ![Dashboard 2](docs/screenshots/09_dashboard_2.png) |
+| Veículo cadastrado | Novo abastecimento | Lista de abastecimentos |
+| :---: | :---: | :---: |
+| ![Veículo](docs/veiculo.jpeg) | ![Novo abastecimento](docs/novo_abastecimento.jpeg) | ![Abastecimentos](docs/abastecimentos.jpeg) |
 
-|                     Confirmação de exclusão                     |
-| :-------------------------------------------------------------: |
-| ![Exclusão do veículo](docs/screenshots/10_excluir_veiculo.png) |
+| Abastecimento | Exclusão do veículo |
+| :---: | :---: |
+| ![Abastecimento](docs/abastecimento.jpeg) | ![Excluir veículo](docs/excluir_veiculo.jpeg) |
 
 ---
 
